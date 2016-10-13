@@ -1,4 +1,3 @@
-application: wirproxy
 version: first
 module: default
 runtime: python27
